@@ -1,5 +1,7 @@
 # rating-api
 
+GGG
+
 Container exposes port 3000.
 Required configuration via environment variables:
 
